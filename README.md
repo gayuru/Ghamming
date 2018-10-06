@@ -1,5 +1,4 @@
 # Welcome to Ghamming !
--------------------
 
 GUI Based Hamming Code app implemented using Socket Programming for Error detection at the network layer. Socket Porgramming on both server and client sides.
 
