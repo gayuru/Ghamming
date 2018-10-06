@@ -71,9 +71,8 @@ PS : If any of the process gives you an error;
 
 #### Contact info
 
-* **Developers:** [Gayuru Gunawardena](www.gayurug.com)
-                Daniel Bound
-                Punita Indraratna
+* **Developer:** [Gayuru Gunawardena](www.gayurug.com)
+               
 
 
 ---
