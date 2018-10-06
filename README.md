@@ -71,7 +71,7 @@ PS : If any of the process gives you an error;
 
 #### Contact info
 
-* **Developer:** [Gayuru Gunawardena](www.gayurug.com)
+* **Developer:** [Gayuru Gunawardena](https://gayurug.com)
                
 
 
